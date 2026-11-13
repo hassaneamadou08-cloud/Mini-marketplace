@@ -1,0 +1,22 @@
+{
+  "produits": [
+    {
+      "boutique": "Boutique Aïcha",
+      "nom": "Pagne wax 6 yards",
+      "prix": 12500,
+      "description": "Coton épais, motifs au choix",
+      "whatsapp": "22790123456",
+      "image": "",
+      "date": "2026-11-10"
+    },
+    {
+      "boutique": "Chez Moussa",
+      "nom": "Sac de riz 25 kg",
+      "prix": 14000,
+      "description": "Riz parfumé, livraison possible",
+      "whatsapp": "22796654321",
+      "image": "",
+      "date": "2026-11-11"
+    }
+  ]
+}
